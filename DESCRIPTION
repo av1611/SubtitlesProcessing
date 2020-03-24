@@ -1,0 +1,17 @@
+Package: SubtitlesProccessing
+Type: Package
+Title: Processing the Subtitles
+Version: 0.1.3
+Author: Aleksi Gaevsky
+Maintainer: Aleksi Gaevsky <aleksi.eesti@gmail.com>
+Description: Processing the Subtitles.
+License: GNU
+Depends: R (>= 3.3.0)
+License: GNU
+URL: 
+Encoding: UTF-8
+LazyData: false
+RoxygenNote: 6.0.1
+Imports: devtools, testthat, roxygen2, readr, stringr, stringi, ReporteRs
+
+
